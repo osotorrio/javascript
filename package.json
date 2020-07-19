@@ -1,0 +1,24 @@
+{
+    "name": "javascript",
+    "version": "1.0.0",
+    "description": "Javascript Language Features",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "index": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/osotorrio/javascript.git"
+    },
+    "keywords": [
+        "javascript",
+        "es6"
+    ],
+    "author": "Oscar Sotorrio",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/osotorrio/javascript/issues"
+    },
+    "homepage": "https://github.com/osotorrio/javascript#readme"
+}
